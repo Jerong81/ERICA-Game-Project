@@ -6,8 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Project/Scenes/MainGame.unity
+    path: Assets/_Project/Scenes/01_BusStop.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Project/Scenes/02_Dormitory.unity
+    guid: 6db3f1720a08edd409648e2aeae99360
+  - enabled: 1
+    path: Assets/_Project/Scenes/03_LectureHall.unity
+    guid: 7e619a6a989b3494ca6d0d0ffda37378
+  - enabled: 1
+    path: Assets/_Project/Scenes/04_StudentUnion.unity
+    guid: 85a3703371adfc64ab3d150401cf8440
+  - enabled: 1
+    path: Assets/_Project/Scenes/05_CampusPark.unity
+    guid: 7579d8bd1a80d6f4895e6c81e60bd9a3
+  - enabled: 1
+    path: Assets/_Project/Scenes/06_Ending.unity
+    guid: 1b532d337a10b58459a592a2a00d9667
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
-  m_UseUCBPForAssetBundles: 0
