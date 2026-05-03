@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 145280c8db666624badea0aad1b808cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7191033482967436847
+    second: 01.busbarriers_0
+  - first:
+      213: 3285139777351543522
+    second: 01.busbarriers_1
+  - first:
+      213: 1317741354801224133
+    second: 01.busbarriers_2
+  - first:
+      213: 6787034102211832937
+    second: 01.busbarriers_3
+  - first:
+      213: -5387712974771200040
+    second: 01.busbarriers_4
+  - first:
+      213: -4170757123995471248
+    second: 01.busbarriers_5
+  - first:
+      213: 4604734363076366959
+    second: 01.busbarriers_6
+  - first:
+      213: -836269268079463526
+    second: 01.busbarriers_7
+  - first:
+      213: 4909577082173789464
+    second: 01.busbarriers_8
+  - first:
+      213: -8257474746080950498
+    second: 01.busbarriers_9
+  - first:
+      213: -708737441212517501
+    second: 01.busbarriers_10
+  - first:
+      213: -5900547813895705876
+    second: 01.busbarriers_11
+  - first:
+      213: -5351029721745728039
+    second: 01.busbarriers_12
+  - first:
+      213: -2573725314117643622
+    second: 01.busbarriers_13
+  - first:
+      213: -9075671636304185626
+    second: 01.busbarriers_14
+  - first:
+      213: -4884258728481026815
+    second: 01.busbarriers_15
+  - first:
+      213: 8053120923014235012
+    second: 01.busbarriers_16
+  - first:
+      213: -2248994643804869782
+    second: 01.busbarriers_17
+  - first:
+      213: -6892696470813131970
+    second: 01.busbarriers_18
+  - first:
+      213: -7150404806015525352
+    second: 01.busbarriers_19
+  - first:
+      213: 4689223831506178823
+    second: 01.busbarriers_20
+  - first:
+      213: 5809380769367691909
+    second: 01.busbarriers_21
+  - first:
+      213: 3076217024274592089
+    second: 01.busbarriers_22
+  - first:
+      213: 3996495824942719346
+    second: 01.busbarriers_23
+  - first:
+      213: -8665918212974063741
+    second: 01.busbarriers_24
+  - first:
+      213: -6312744546267398839
+    second: 01.busbarriers_25
+  - first:
+      213: -8437219800324819917
+    second: 01.busbarriers_26
+  - first:
+      213: -1380774976601193853
+    second: 01.busbarriers_27
+  - first:
+      213: 6383530164909726741
+    second: 01.busbarriers_28
+  - first:
+      213: 383595396166749936
+    second: 01.busbarriers_29
+  - first:
+      213: -942683591685697407
+    second: 01.busbarriers_30
+  - first:
+      213: -3443378635909796846
+    second: 01.busbarriers_31
+  - first:
+      213: -2206742657394851879
+    second: 01.busbarriers_32
+  - first:
+      213: 1653396283805949229
+    second: 01.busbarriers_33
+  - first:
+      213: 8810431163483551661
+    second: 01.busbarriers_34
+  - first:
+      213: 2801905767271537476
+    second: 01.busbarriers_35
+  - first:
+      213: 2737699459070574406
+    second: 01.busbarriers_36
+  - first:
+      213: 2268575323910175931
+    second: 01.busbarriers_37
+  - first:
+      213: -3993934633456288399
+    second: 01.busbarriers_38
+  - first:
+      213: 4776983568660778288
+    second: 01.busbarriers_39
+  - first:
+      213: 7371236428693837699
+    second: 01.busbarriers_40
+  - first:
+      213: 1203525598353301969
+    second: 01.busbarriers_41
+  - first:
+      213: 1943113662275185036
+    second: 01.busbarriers_42
+  - first:
+      213: 3516633686668513985
+    second: 01.busbarriers_43
+  - first:
+      213: -5086276372795283158
+    second: 01.busbarriers_44
+  - first:
+      213: 4628710478466911222
+    second: 01.busbarriers_45
+  - first:
+      213: -4045533332557639438
+    second: 01.busbarriers_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01.busbarriers_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1911
+        width: 953
+        height: 1022
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 53, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d139cf9521543c90800000000000000
+      internalID: -7191033482967436847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1329
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed231a6b8a4cc90800000000000000
+      internalID: -7150404806015525352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_20
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d83dea38731140800000000000000
+      internalID: 4689223831506178823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1261
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8efdfafdc25500800000000000000
+      internalID: 383595396166749936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 759
+        width: 314
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1801cf5944aeae2f0800000000000000
+      internalID: -942683591685697407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 729
+        width: 213
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c6d6bdf59a630d0800000000000000
+      internalID: -3443378635909796846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 211
+        width: 383
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5439f82b02f610800000000000000
+      internalID: 1653396283805949229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_34
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 232
+        width: 485
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7f779a670f44a70800000000000000
+      internalID: 8810431163483551661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_46
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f056e14ed06bd7c0800000000000000
+      internalID: -4045533332557639438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busbarriers_1
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 210
+        width: 641
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d496259a6ba69047a7767674aaf00dd
+      internalID: 3285139777351543522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77926aa107859604982e8c69c772c9ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01.busbarriers_0: -7191033482967436847
+      01.busbarriers_1: 3285139777351543522
+      01.busbarriers_10: -708737441212517501
+      01.busbarriers_11: -5900547813895705876
+      01.busbarriers_12: -5351029721745728039
+      01.busbarriers_13: -2573725314117643622
+      01.busbarriers_14: -9075671636304185626
+      01.busbarriers_15: -4884258728481026815
+      01.busbarriers_16: 8053120923014235012
+      01.busbarriers_17: -2248994643804869782
+      01.busbarriers_18: -6892696470813131970
+      01.busbarriers_19: -7150404806015525352
+      01.busbarriers_2: 1317741354801224133
+      01.busbarriers_20: 4689223831506178823
+      01.busbarriers_21: 5809380769367691909
+      01.busbarriers_22: 3076217024274592089
+      01.busbarriers_23: 3996495824942719346
+      01.busbarriers_24: -8665918212974063741
+      01.busbarriers_25: -6312744546267398839
+      01.busbarriers_26: -8437219800324819917
+      01.busbarriers_27: -1380774976601193853
+      01.busbarriers_28: 6383530164909726741
+      01.busbarriers_29: 383595396166749936
+      01.busbarriers_3: 6787034102211832937
+      01.busbarriers_30: -942683591685697407
+      01.busbarriers_31: -3443378635909796846
+      01.busbarriers_32: -2206742657394851879
+      01.busbarriers_33: 1653396283805949229
+      01.busbarriers_34: 8810431163483551661
+      01.busbarriers_35: 2801905767271537476
+      01.busbarriers_36: 2737699459070574406
+      01.busbarriers_37: 2268575323910175931
+      01.busbarriers_38: -3993934633456288399
+      01.busbarriers_39: 4776983568660778288
+      01.busbarriers_4: -5387712974771200040
+      01.busbarriers_40: 7371236428693837699
+      01.busbarriers_41: 1203525598353301969
+      01.busbarriers_42: 1943113662275185036
+      01.busbarriers_43: 3516633686668513985
+      01.busbarriers_44: -5086276372795283158
+      01.busbarriers_45: 4628710478466911222
+      01.busbarriers_46: -4045533332557639438
+      01.busbarriers_5: -4170757123995471248
+      01.busbarriers_6: 4604734363076366959
+      01.busbarriers_7: -836269268079463526
+      01.busbarriers_8: 4909577082173789464
+      01.busbarriers_9: -8257474746080950498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

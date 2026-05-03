@@ -1,74 +1,148 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
     [Header("설정")]
     public float moveSpeed = 5f;
-    public TextMeshProUGUI scoreText;
-    public int targetScore = 10; // 인스펙터에서 맵마다 다르게 수정 가능!
+    public int targetScore = 80;
+
+    [Header("피곤도 설정")]
+    private int fatigue = 100;
+    public float knockbackForce = 5f;
 
     private Rigidbody2D rb;
+    private Animator animator;
     private Vector2 moveInput;
     private int score = 0;
     private Vector3 startPosition;
+    private bool isLevelComplete = false;
+    private bool isKnockback = false;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+
         rb.gravityScale = 0f;
+        rb.sleepMode = RigidbodySleepMode2D.NeverSleep;
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+
         startPosition = transform.position;
 
-        if (scoreText != null)
-            scoreText.text = "Score: " + score;
+        if (UIManager.Instance != null)
+        {
+            UIManager.Instance.UpdateFatigueUI(fatigue);
+        }
     }
 
     void Update()
     {
-        moveInput.x = Input.GetAxisRaw("Horizontal");
-        moveInput.y = Input.GetAxisRaw("Vertical");
+        if (isLevelComplete || isKnockback)
+        {
+            moveInput = Vector2.zero;
+        }
+        else
+        {
+            moveInput.x = Input.GetAxisRaw("Horizontal");
+            moveInput.y = Input.GetAxisRaw("Vertical");
+        }
+
+        animator.SetFloat("Horizontal", moveInput.x);
+        animator.SetFloat("Vertical", moveInput.y);
     }
 
     void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
+        if (!isKnockback)
+        {
+            rb.linearVelocity = moveInput.normalized * moveSpeed;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Item"))
         {
-            score += 10;
-            if (scoreText != null)
-                scoreText.text = "Score: " + score;
-
-            UnityEngine.Debug.Log("현재 점수: " + score);
-            Destroy(collision.gameObject);
-
-            if (score >= targetScore)
+            ItemInfo info = collision.GetComponent<ItemInfo>();
+            if (info != null && UIManager.Instance != null)
             {
-                UnityEngine.Debug.Log("목표 점수 달성! 다음 맵으로 이동합니다.");
-                int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+                UIManager.Instance.AddPiece(info.pieceIndex);
+                score += 10;
+                Destroy(collision.gameObject);
+            }
 
-                if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
-                {
-                    SceneManager.LoadScene(nextSceneIndex);
-                }
-                else
-                {
-                    SceneManager.LoadScene("06_Ending");
-                }
+            if (score >= targetScore && !isLevelComplete)
+            {
+                isLevelComplete = true;
+                if (UIManager.Instance != null)
+                    UIManager.Instance.ShowCompleteUI();
+                StartCoroutine(WaitAndNextScene());
             }
         }
-    } // ← 여기서 괄호가 꼬였던 부분을 고쳤습니다.
+
+        if (collision.CompareTag("Obstacle"))
+        {
+            Vector2 knockbackDir = (transform.position - collision.transform.position).normalized;
+            TakeDamage(knockbackDir);
+        }
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Obstacle"))
         {
-            UnityEngine.Debug.Log("장애물 충돌! 리스폰합니다.");
-            transform.position = startPosition;
+            Vector2 knockbackDir = (transform.position - collision.transform.position).normalized;
+            TakeDamage(knockbackDir);
+        }
+    }
+
+    void TakeDamage(Vector2 direction)
+    {
+        fatigue -= 10;
+
+        if (UIManager.Instance != null)
+            UIManager.Instance.UpdateFatigueUI(fatigue);
+
+        if (fatigue <= 0)
+        {
+            RestartGame();
+        }
+        else
+        {
+            StartCoroutine(ApplyKnockback(direction));
+        }
+    }
+
+    IEnumerator ApplyKnockback(Vector2 direction)
+    {
+        isKnockback = true;
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce(direction * knockbackForce, ForceMode2D.Impulse);
+
+        yield return new WaitForSeconds(0.2f);
+
+        isKnockback = false;
+    }
+
+    void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    IEnumerator WaitAndNextScene()
+    {
+        yield return new WaitForSeconds(2.0f);
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            SceneManager.LoadScene("06_Ending");
         }
     }
 }

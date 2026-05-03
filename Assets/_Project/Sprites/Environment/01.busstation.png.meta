@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 8df183527a58c084790439255122c889
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5408279826897749788
+    second: 01.busstation_0
+  - first:
+      213: 2077971001437429852
+    second: 01.busstation_1
+  - first:
+      213: 6513473799300229188
+    second: 01.busstation_2
+  - first:
+      213: -2157356537271093653
+    second: 01.busstation_3
+  - first:
+      213: -3919837966324461791
+    second: 01.busstation_4
+  - first:
+      213: 398825603395732479
+    second: 01.busstation_5
+  - first:
+      213: 8391411294798250631
+    second: 01.busstation_6
+  - first:
+      213: 498712421468018487
+    second: 01.busstation_7
+  - first:
+      213: -4892248432025573882
+    second: 01.busstation_8
+  - first:
+      213: -3482999528738512462
+    second: 01.busstation_9
+  - first:
+      213: -76865113968697041
+    second: 01.busstation_10
+  - first:
+      213: 6446431017985877419
+    second: 01.busstation_11
+  - first:
+      213: -5587800549007650629
+    second: 01.busstation_12
+  - first:
+      213: 7937209424531915874
+    second: 01.busstation_13
+  - first:
+      213: 1397991018989569128
+    second: 01.busstation_14
+  - first:
+      213: 4887176388482208181
+    second: 01.busstation_15
+  - first:
+      213: 8689077749554679151
+    second: 01.busstation_16
+  - first:
+      213: -7983435218970633770
+    second: 01.busstation_17
+  - first:
+      213: 6774614912821357202
+    second: 01.busstation_18
+  - first:
+      213: -5293328122377446904
+    second: 01.busstation_19
+  - first:
+      213: -4713038553932894236
+    second: 01.busstation_20
+  - first:
+      213: 6243620768002017530
+    second: 01.busstation_21
+  - first:
+      213: -1226582959017133465
+    second: 01.busstation_22
+  - first:
+      213: -8427961219818490489
+    second: 01.busstation_23
+  - first:
+      213: 1285950960018118959
+    second: 01.busstation_24
+  - first:
+      213: 4158213471539292656
+    second: 01.busstation_25
+  - first:
+      213: -6983649186444955408
+    second: 01.busstation_26
+  - first:
+      213: -612734889432137096
+    second: 01.busstation_27
+  - first:
+      213: -6736821152931091257
+    second: 01.busstation_28
+  - first:
+      213: -4876288251633631187
+    second: 01.busstation_29
+  - first:
+      213: 8816291709184968688
+    second: 01.busstation_30
+  - first:
+      213: -2775177798953958332
+    second: 01.busstation_31
+  - first:
+      213: 6489719123428026902
+    second: 01.busstation_32
+  - first:
+      213: -6713083896622671032
+    second: 01.busstation_33
+  - first:
+      213: -1846131114601090504
+    second: 01.busstation_34
+  - first:
+      213: 2508830145900702451
+    second: 01.busstation_35
+  - first:
+      213: -5014550566853144612
+    second: 01.busstation_36
+  - first:
+      213: 8301939623610094112
+    second: 01.busstation_37
+  - first:
+      213: 6419521935485570954
+    second: 01.busstation_38
+  - first:
+      213: -5015799274315898677
+    second: 01.busstation_39
+  - first:
+      213: 1935331972871158444
+    second: 01.busstation_40
+  - first:
+      213: -5413018984677506055
+    second: 01.busstation_41
+  - first:
+      213: -5264699503266204139
+    second: 01.busstation_42
+  - first:
+      213: 108756408496041180
+    second: 01.busstation_43
+  - first:
+      213: 1760083906494056147
+    second: 01.busstation_44
+  - first:
+      213: 2134161765748573347
+    second: 01.busstation_45
+  - first:
+      213: 8731157893597536772
+    second: 01.busstation_46
+  - first:
+      213: -3147401229746998824
+    second: 01.busstation_47
+  - first:
+      213: 6444556146521732374
+    second: 01.busstation_48
+  - first:
+      213: -3224059016930988307
+    second: 01.busstation_49
+  - first:
+      213: 1791509650284797753
+    second: 01.busstation_50
+  - first:
+      213: 4565590097021101692
+    second: 01.busstation_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01.busstation_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 388
+        width: 162
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371da61e48cbe600800000000000000
+      internalID: 498712421468018487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 357
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d05ff2d2ec59870800000000000000
+      internalID: 8689077749554679151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 395
+        width: 296
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d999e567f3253190800000000000000
+      internalID: -7983435218970633770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_20
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 388
+        width: 77
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efeb1ce76ce79eb0800000000000000
+      internalID: -4713038553932894236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 388
+        width: 81
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af80305220cc5a650800000000000000
+      internalID: 6243620768002017530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_22
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 386
+        width: 115
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a7c382c4d4afee0800000000000000
+      internalID: -1226582959017133465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 388
+        width: 73
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78573ff7cedd90b80800000000000000
+      internalID: -8427961219818490489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 245
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832f76158893166e0800000000000000
+      internalID: -1846131114601090504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae330b9b721d220800000000000000
+      internalID: 2508830145900702451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 183
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0c72e3dcb86ab0800000000000000
+      internalID: -5014550566853144612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 178
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02215042a1a663370800000000000000
+      internalID: 8301939623610094112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 172
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f02703039b61950800000000000000
+      internalID: 6419521935485570954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 36
+        width: 103
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02db5822d446ab0800000000000000
+      internalID: -5015799274315898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 36
+        width: 118
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf07dec2eabda10800000000000000
+      internalID: 1935331972871158444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 35
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f30adfa9e711e4b0800000000000000
+      internalID: -5413018984677506055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_42
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 35
+        width: 66
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51674a202b700f6b0800000000000000
+      internalID: -5264699503266204139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_43
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 178
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc24779061628100800000000000000
+      internalID: 108756408496041180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_44
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 178
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c575dcf21d6810800000000000000
+      internalID: 1760083906494056147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 242
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a40aa491d01e9d10800000000000000
+      internalID: 2134161765748573347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 117
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402aab538dd4b2970800000000000000
+      internalID: 8731157893597536772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_49
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 36
+        width: 195
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeeee8e767d143d0800000000000000
+      internalID: -3224059016930988307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd8ecf888bcd810800000000000000
+      internalID: 1791509650284797753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 284
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ebf2f00c3c5f30800000000000000
+      internalID: 4565590097021101692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332474622653d1448a36c666d29433e
+      internalID: -352242614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.busstation_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 33
+        width: 150
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d74c89d887a3a4b8166c841f3ba60c
+      internalID: -598293591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0cbc71596b334e947a3ae0ecbb40e8c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      01.busstation_0: -5408279826897749788
+      01.busstation_1: 2077971001437429852
+      01.busstation_10: -76865113968697041
+      01.busstation_11: 6446431017985877419
+      01.busstation_12: -5587800549007650629
+      01.busstation_13: 7937209424531915874
+      01.busstation_14: 1397991018989569128
+      01.busstation_15: 4887176388482208181
+      01.busstation_16: 8689077749554679151
+      01.busstation_17: -7983435218970633770
+      01.busstation_18: 6774614912821357202
+      01.busstation_19: -5293328122377446904
+      01.busstation_2: 6513473799300229188
+      01.busstation_20: -4713038553932894236
+      01.busstation_21: 6243620768002017530
+      01.busstation_22: -1226582959017133465
+      01.busstation_23: -8427961219818490489
+      01.busstation_24: 1285950960018118959
+      01.busstation_25: 4158213471539292656
+      01.busstation_26: -6983649186444955408
+      01.busstation_27: -612734889432137096
+      01.busstation_28: -6736821152931091257
+      01.busstation_29: -4876288251633631187
+      01.busstation_3: -2157356537271093653
+      01.busstation_30: 8816291709184968688
+      01.busstation_31: -2775177798953958332
+      01.busstation_32: 6489719123428026902
+      01.busstation_33: -6713083896622671032
+      01.busstation_34: -1846131114601090504
+      01.busstation_35: 2508830145900702451
+      01.busstation_36: -5014550566853144612
+      01.busstation_37: 8301939623610094112
+      01.busstation_38: 6419521935485570954
+      01.busstation_39: -5015799274315898677
+      01.busstation_4: -3919837966324461791
+      01.busstation_40: 1935331972871158444
+      01.busstation_41: -5413018984677506055
+      01.busstation_42: -5264699503266204139
+      01.busstation_43: 108756408496041180
+      01.busstation_44: 1760083906494056147
+      01.busstation_45: 2134161765748573347
+      01.busstation_46: 8731157893597536772
+      01.busstation_47: -3147401229746998824
+      01.busstation_48: 6444556146521732374
+      01.busstation_49: -3224059016930988307
+      01.busstation_5: 398825603395732479
+      01.busstation_50: 1791509650284797753
+      01.busstation_51: 4565590097021101692
+      01.busstation_52: -352242614
+      01.busstation_53: -598293591
+      01.busstation_54: 328303643
+      01.busstation_55: -1733796274
+      01.busstation_6: 8391411294798250631
+      01.busstation_7: 498712421468018487
+      01.busstation_8: -4892248432025573882
+      01.busstation_9: -3482999528738512462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

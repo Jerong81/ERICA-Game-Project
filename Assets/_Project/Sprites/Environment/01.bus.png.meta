@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 7d8efa2a77c54214c9bdcf4a153d0aba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1223958431475000254
+    second: bus_0
+  - first:
+      213: -7934667534586901030
+    second: bus_1
+  - first:
+      213: -5162384925360757318
+    second: bus_2
+  - first:
+      213: 1003501473869707183
+    second: bus_3
+  - first:
+      213: -8910236810821218017
+    second: bus_4
+  - first:
+      213: 781638056500294135
+    second: bus_5
+  - first:
+      213: -27457477848898677
+    second: bus_6
+  - first:
+      213: -7620036024526819698
+    second: bus_7
+  - first:
+      213: -5044992532075595104
+    second: bus_8
+  - first:
+      213: 7933223148778779864
+    second: bus_9
+  - first:
+      213: -8689986977212268784
+    second: bus_10
+  - first:
+      213: -3863904927298477180
+    second: bus_11
+  - first:
+      213: -6717572578028933146
+    second: bus_12
+  - first:
+      213: 5060686370996519237
+    second: bus_13
+  - first:
+      213: 2675569921447381918
+    second: bus_14
+  - first:
+      213: 6541202686913038
+    second: bus_15
+  - first:
+      213: 220718678020525709
+    second: bus_16
+  - first:
+      213: 4841209581270801475
+    second: bus_17
+  - first:
+      213: -5461167975462284751
+    second: bus_18
+  - first:
+      213: -7542396927324930733
+    second: bus_19
+  - first:
+      213: -6925913549408906946
+    second: bus_20
+  - first:
+      213: 8970085759541730088
+    second: bus_21
+  - first:
+      213: 472041515743588968
+    second: bus_22
+  - first:
+      213: -5126006244121529330
+    second: bus_23
+  - first:
+      213: 8789394374610761575
+    second: bus_24
+  - first:
+      213: -3808254756342135238
+    second: bus_25
+  - first:
+      213: 3228997054499912320
+    second: bus_26
+  - first:
+      213: 5901309855341810077
+    second: bus_27
+  - first:
+      213: -603699653154004746
+    second: bus_28
+  - first:
+      213: 4894753616213039955
+    second: bus_29
+  - first:
+      213: 4945773153430578180
+    second: bus_30
+  - first:
+      213: 5775149037824288866
+    second: bus_31
+  - first:
+      213: -7944544217497465692
+    second: bus_32
+  - first:
+      213: -6714164101017956261
+    second: bus_33
+  - first:
+      213: -1196172797836244965
+    second: bus_34
+  - first:
+      213: -6998522991465704053
+    second: bus_35
+  - first:
+      213: -340118024090447071
+    second: bus_36
+  - first:
+      213: 1134910351012795265
+    second: bus_37
+  - first:
+      213: -3738211050022647098
+    second: bus_38
+  - first:
+      213: 6361302374066885391
+    second: bus_39
+  - first:
+      213: -6140229448423648372
+    second: bus_40
+  - first:
+      213: 1316596680055730879
+    second: bus_41
+  - first:
+      213: -2128230647778552352
+    second: bus_42
+  - first:
+      213: -1931679238632116759
+    second: bus_43
+  - first:
+      213: 2110436261223676856
+    second: bus_44
+  - first:
+      213: 4884968267709701142
+    second: bus_45
+  - first:
+      213: 639343817678048403
+    second: bus_46
+  - first:
+      213: 6181770879670668167
+    second: bus_47
+  - first:
+      213: 6870395960402470747
+    second: bus_48
+  - first:
+      213: 5253799900303146465
+    second: bus_49
+  - first:
+      213: -7551749671943510704
+    second: bus_50
+  - first:
+      213: 7148606573391420497
+    second: bus_51
+  - first:
+      213: -6057534065281762913
+    second: bus_52
+  - first:
+      213: 7956563005164177834
+    second: bus_53
+  - first:
+      213: -1049441740279307618
+    second: bus_54
+  - first:
+      213: -4554916327632753015
+    second: bus_55
+  - first:
+      213: -3340445317767629436
+    second: bus_56
+  - first:
+      213: 6792514320549835986
+    second: bus_57
+  - first:
+      213: -978618975265778771
+    second: bus_58
+  - first:
+      213: 6812897509900887937
+    second: bus_59
+  - first:
+      213: 3247840820925901433
+    second: bus_60
+  - first:
+      213: -5552869825915320802
+    second: bus_61
+  - first:
+      213: 6319558779893977102
+    second: bus_62
+  - first:
+      213: -2257102936857790532
+    second: bus_63
+  - first:
+      213: 1035851090173780554
+    second: bus_64
+  - first:
+      213: -4778426645955322507
+    second: bus_65
+  - first:
+      213: -3157515028345955741
+    second: bus_66
+  - first:
+      213: 2916426222373447487
+    second: bus_67
+  - first:
+      213: -6955645379278120019
+    second: bus_68
+  - first:
+      213: -4741356204833225010
+    second: bus_69
+  - first:
+      213: -265420776387568925
+    second: bus_70
+  - first:
+      213: -5167699141529924271
+    second: bus_71
+  - first:
+      213: -1138334571257140544
+    second: bus_72
+  - first:
+      213: 9050021386469050740
+    second: bus_73
+  - first:
+      213: -8136411957150445307
+    second: bus_74
+  - first:
+      213: 4994149020589527532
+    second: bus_75
+  - first:
+      213: -8745133154227103971
+    second: bus_76
+  - first:
+      213: -1945002257091000706
+    second: bus_77
+  - first:
+      213: -4717821074069185841
+    second: bus_78
+  - first:
+      213: -378201409176026756
+    second: bus_79
+  - first:
+      213: 4176506977509934128
+    second: bus_80
+  - first:
+      213: -9017346716600757763
+    second: bus_81
+  - first:
+      213: 4425540503595850920
+    second: bus_82
+  - first:
+      213: 8035029788912680655
+    second: bus_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bus_0
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2874
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb369e765bf5cf010800000000000000
+      internalID: 1223958431475000254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2915
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8f1ebae562e190800000000000000
+      internalID: -7934667534586901030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2873
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56a0a03468b58b0800000000000000
+      internalID: -5162384925360757318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2905
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b59116472ded00800000000000000
+      internalID: 1003501473869707183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2876
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11546a34da785480800000000000000
+      internalID: -8910236810821218017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_5
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2581
+        width: 294
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f170accbafe8da00800000000000000
+      internalID: 781638056500294135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_6
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2876
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b836362c1937e9ff0800000000000000
+      internalID: -27457477848898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2806
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e266ebb91304690800000000000000
+      internalID: -7620036024526819698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_8
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2829
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab22785069cf9b0800000000000000
+      internalID: -5044992532075595104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2765
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d47ddafb68781e60800000000000000
+      internalID: 7933223148778779864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_10
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2801
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ffd70c2e6f66780800000000000000
+      internalID: -8689986977212268784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_11
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2802
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832e72c0f6a06ac0800000000000000
+      internalID: -3863904927298477180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2783
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef2eadd45366c2a0800000000000000
+      internalID: -6717572578028933146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2807
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54188e6117b2b3640800000000000000
+      internalID: 5060686370996519237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_14
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2789
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4793faa8812520800000000000000
+      internalID: 2675569921447381918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2601
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aae8e603d371000800000000000000
+      internalID: 6541202686913038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2604
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e05bed776201300800000000000000
+      internalID: 220718678020525709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2545
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1dded67e6f2340800000000000000
+      internalID: 4841209581270801475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_18
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2533
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132d4db29a80634b0800000000000000
+      internalID: -5461167975462284751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2028
+        width: 446
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dbcc7b4f5045790800000000000000
+      internalID: -7542396927324930733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2028
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31da66625632ef90800000000000000
+      internalID: -6925913549408906946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_21
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2064
+        width: 749
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b564609752c7c70800000000000000
+      internalID: 8970085759541730088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_22
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1964
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8623221f1470d8600800000000000000
+      internalID: 472041515743588968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1880
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b3beca74ccd8b0800000000000000
+      internalID: -5126006244121529330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1919
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767bd719d933af970800000000000000
+      internalID: 8789394374610761575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1891
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360902e97c562bc0800000000000000
+      internalID: -3808254756342135238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_26
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1893
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aff3e86b3bfcc20800000000000000
+      internalID: 3228997054499912320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_27
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1882
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9119250c0aa5e150800000000000000
+      internalID: 5901309855341810077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1389
+        width: 445
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0aabe2d5a3f97f0800000000000000
+      internalID: -603699653154004746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1388
+        width: 444
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdf6dfa78ade340800000000000000
+      internalID: 4894753616213039955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_30
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1806
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a4edaa7ae2a440800000000000000
+      internalID: 4945773153430578180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_31
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1753
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a47ca373752050800000000000000
+      internalID: 5775149037824288866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_32
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1716
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0ead402f4fb190800000000000000
+      internalID: -7944544217497465692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_33
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1686
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b501523c25f72d2a0800000000000000
+      internalID: -6714164101017956261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_34
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1693
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184cfe8d27566fe0800000000000000
+      internalID: -1196172797836244965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_35
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1651
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8558454b6040ee90800000000000000
+      internalID: -6998522991465704053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_36
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1662
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12391688578a74bf0800000000000000
+      internalID: -340118024090447071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_37
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1659
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183180483f200cf00800000000000000
+      internalID: 1134910351012795265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_38
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1651
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac5fb1bd43f1cc0800000000000000
+      internalID: -3738211050022647098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_39
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1303
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031b1b3ec2e74850800000000000000
+      internalID: 6361302374066885391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_40
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1214
+        width: 358
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d05759d589caa0800000000000000
+      internalID: -6140229448423648372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_41
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1254
+        width: 118
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23e2374bd754210800000000000000
+      internalID: 1316596680055730879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1245
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55f0f60810772e0800000000000000
+      internalID: -2128230647778552352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede55987fb4135e0800000000000000
+      internalID: -1931679238632116759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_44
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1251
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb37571996c94d10800000000000000
+      internalID: 2110436261223676856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_45
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1234
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c54eff1c4eac340800000000000000
+      internalID: 4884968267709701142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1224
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cca0690d76fd800800000000000000
+      internalID: 639343817678048403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1193
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bcf95dcdf0ac550800000000000000
+      internalID: 6181770879670668167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1197
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57611e99bc885f50800000000000000
+      internalID: 6870395960402470747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1190
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3d8a6c2f39e840800000000000000
+      internalID: 5253799900303146465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_50
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1204
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055622b2fabc23790800000000000000
+      internalID: -7551749671943510704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_51
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1204
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9406bdc3f43360800000000000000
+      internalID: 7148606573391420497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_52
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1181
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f997d00acd05feba0800000000000000
+      internalID: -6057534065281762913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_53
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1099
+        width: 142
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa943d3c5e36b6e60800000000000000
+      internalID: 7956563005164177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_54
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1175
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922f222c42af61f0800000000000000
+      internalID: -1049441740279307618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_55
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea2d5abbfa9c0c0800000000000000
+      internalID: -4554916327632753015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_56
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f7d29eaa54a1d0800000000000000
+      internalID: -3340445317767629436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 903
+        width: 190
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4702849cbd34e50800000000000000
+      internalID: 6792514320549835986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_58
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1123
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da393d81a3f3b62f0800000000000000
+      internalID: -978618975265778771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 914
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18729c060364c8e50800000000000000
+      internalID: 6812897509900887937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_60
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 917
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2d42d406a21d20800000000000000
+      internalID: 3247840820925901433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 913
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16055e405e30f2b0800000000000000
+      internalID: -5552869825915320802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_62
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 917
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0018c45a3593b750800000000000000
+      internalID: 6319558779893977102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_63
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 957
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b91b66d82da0e0800000000000000
+      internalID: -2257102936857790532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_64
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 910
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42620e0415106e00800000000000000
+      internalID: 1035851090173780554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_65
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 889
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d529e584e9fadb0800000000000000
+      internalID: -4778426645955322507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_66
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 911
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5b7a9fc04e24d0800000000000000
+      internalID: -3157515028345955741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_67
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 900
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f372436823a397820800000000000000
+      internalID: 2916426222373447487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_68
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 883
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5a805165987f90800000000000000
+      internalID: -6955645379278120019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_69
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 892
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6425907a1533eb0800000000000000
+      internalID: -4741356204833225010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_70
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 843
+        width: 145
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea196bc539015cf0800000000000000
+      internalID: -265420776387568925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 279
+        width: 988
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d840ba205a848b0800000000000000
+      internalID: -5167699141529924271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_72
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 480
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caeba41db2d330f0800000000000000
+      internalID: -1138334571257140544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_73
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 478
+        width: 232
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790d2e7082289d70800000000000000
+      internalID: 9050021386469050740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_74
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 228
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5019ecbfe68a51f80800000000000000
+      internalID: -8136411957150445307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_75
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 0
+        width: 369
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce19a97f218ce4540800000000000000
+      internalID: 4994149020589527532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 61
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d175dccdabb03a680800000000000000
+      internalID: -8745133154227103971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7602c290c6f105e0800000000000000
+      internalID: -1945002257091000706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_78
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 62
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca114eaabee68eb0800000000000000
+      internalID: -4717821074069185841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 52
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71c28872db50caf0800000000000000
+      internalID: -378201409176026756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_80
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 27
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348b6cc7fee5f930800000000000000
+      internalID: 4176506977509934128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_81
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df11a7cefe2fbd280800000000000000
+      internalID: -9017346716600757763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_82
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 63
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac1fe7f3adaa6d30800000000000000
+      internalID: 4425540503595850920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bus_83
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 36
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce72d78509228f60800000000000000
+      internalID: 8035029788912680655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bus_0: 1223958431475000254
+      bus_1: -7934667534586901030
+      bus_10: -8689986977212268784
+      bus_11: -3863904927298477180
+      bus_12: -6717572578028933146
+      bus_13: 5060686370996519237
+      bus_14: 2675569921447381918
+      bus_15: 6541202686913038
+      bus_16: 220718678020525709
+      bus_17: 4841209581270801475
+      bus_18: -5461167975462284751
+      bus_19: -7542396927324930733
+      bus_2: -5162384925360757318
+      bus_20: -6925913549408906946
+      bus_21: 8970085759541730088
+      bus_22: 472041515743588968
+      bus_23: -5126006244121529330
+      bus_24: 8789394374610761575
+      bus_25: -3808254756342135238
+      bus_26: 3228997054499912320
+      bus_27: 5901309855341810077
+      bus_28: -603699653154004746
+      bus_29: 4894753616213039955
+      bus_3: 1003501473869707183
+      bus_30: 4945773153430578180
+      bus_31: 5775149037824288866
+      bus_32: -7944544217497465692
+      bus_33: -6714164101017956261
+      bus_34: -1196172797836244965
+      bus_35: -6998522991465704053
+      bus_36: -340118024090447071
+      bus_37: 1134910351012795265
+      bus_38: -3738211050022647098
+      bus_39: 6361302374066885391
+      bus_4: -8910236810821218017
+      bus_40: -6140229448423648372
+      bus_41: 1316596680055730879
+      bus_42: -2128230647778552352
+      bus_43: -1931679238632116759
+      bus_44: 2110436261223676856
+      bus_45: 4884968267709701142
+      bus_46: 639343817678048403
+      bus_47: 6181770879670668167
+      bus_48: 6870395960402470747
+      bus_49: 5253799900303146465
+      bus_5: 781638056500294135
+      bus_50: -7551749671943510704
+      bus_51: 7148606573391420497
+      bus_52: -6057534065281762913
+      bus_53: 7956563005164177834
+      bus_54: -1049441740279307618
+      bus_55: -4554916327632753015
+      bus_56: -3340445317767629436
+      bus_57: 6792514320549835986
+      bus_58: -978618975265778771
+      bus_59: 6812897509900887937
+      bus_6: -27457477848898677
+      bus_60: 3247840820925901433
+      bus_61: -5552869825915320802
+      bus_62: 6319558779893977102
+      bus_63: -2257102936857790532
+      bus_64: 1035851090173780554
+      bus_65: -4778426645955322507
+      bus_66: -3157515028345955741
+      bus_67: 2916426222373447487
+      bus_68: -6955645379278120019
+      bus_69: -4741356204833225010
+      bus_7: -7620036024526819698
+      bus_70: -265420776387568925
+      bus_71: -5167699141529924271
+      bus_72: -1138334571257140544
+      bus_73: 9050021386469050740
+      bus_74: -8136411957150445307
+      bus_75: 4994149020589527532
+      bus_76: -8745133154227103971
+      bus_77: -1945002257091000706
+      bus_78: -4717821074069185841
+      bus_79: -378201409176026756
+      bus_8: -5044992532075595104
+      bus_80: 4176506977509934128
+      bus_81: -9017346716600757763
+      bus_82: 4425540503595850920
+      bus_83: 8035029788912680655
+      bus_9: 7933223148778779864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

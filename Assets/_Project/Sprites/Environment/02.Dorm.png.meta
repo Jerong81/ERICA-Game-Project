@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 7b2f3b4f883eb1f49b11d7b639f8086e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6619794601963300964
+    second: 02.Dorm_0
+  - first:
+      213: 3016654041977718277
+    second: 02.Dorm_1
+  - first:
+      213: 8768700483489584867
+    second: 02.Dorm_2
+  - first:
+      213: -4351471390156103915
+    second: 02.Dorm_3
+  - first:
+      213: -4919995040073184230
+    second: 02.Dorm_4
+  - first:
+      213: 4982872105161371123
+    second: 02.Dorm_5
+  - first:
+      213: 1456578872949221479
+    second: 02.Dorm_6
+  - first:
+      213: 1905807703799758325
+    second: 02.Dorm_7
+  - first:
+      213: -8498375082436323886
+    second: 02.Dorm_8
+  - first:
+      213: -206012504175035436
+    second: 02.Dorm_9
+  - first:
+      213: -2243327785449025389
+    second: 02.Dorm_10
+  - first:
+      213: -1257446840868004512
+    second: 02.Dorm_11
+  - first:
+      213: 5377362986472555383
+    second: 02.Dorm_12
+  - first:
+      213: 2501767841945544590
+    second: 02.Dorm_13
+  - first:
+      213: -6632090618647220212
+    second: 02.Dorm_14
+  - first:
+      213: 5260462632287617126
+    second: 02.Dorm_15
+  - first:
+      213: 5436563109168898728
+    second: 02.Dorm_16
+  - first:
+      213: -678197829611156349
+    second: 02.Dorm_17
+  - first:
+      213: -2697109924734053895
+    second: 02.Dorm_18
+  - first:
+      213: 8651228817862313427
+    second: 02.Dorm_19
+  - first:
+      213: 3079251875783000306
+    second: 02.Dorm_20
+  - first:
+      213: 6171914247675551473
+    second: 02.Dorm_21
+  - first:
+      213: -58092798345146070
+    second: 02.Dorm_22
+  - first:
+      213: 4339209763271811246
+    second: 02.Dorm_23
+  - first:
+      213: -1232217163013164474
+    second: 02.Dorm_24
+  - first:
+      213: 3928970723422607553
+    second: 02.Dorm_25
+  - first:
+      213: -5771028488348340613
+    second: 02.Dorm_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02.Dorm_0
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 745
+        width: 433
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323ee44eefd47040a0703f08ac965a5
+      internalID: 6619794601963300964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 703
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a030479af3a9bf49ac6e633fda3b78b
+      internalID: 3016654041977718277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 703
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7d47b8d2c81f4a9c55936496cf15b
+      internalID: 8768700483489584867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 703
+        width: 149
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fbeadfb9d62c54d88ca060da078bd3
+      internalID: -4351471390156103915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a012033f6ee774c8f179bd5fc5b985
+      internalID: -4919995040073184230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 703
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a3b5bd2a3e8e4e952da157dc2a30f
+      internalID: 4982872105161371123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 703
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62fca608e50464ca578553de6a0166
+      internalID: 1456578872949221479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 703
+        width: 103
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a714f997efc0dc94fb77ee4ce5a32a89
+      internalID: 1905807703799758325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 703
+        width: 273
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41506f6db3a40d341b6de611fcc2282d
+      internalID: -8498375082436323886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_9
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 703
+        width: 213
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec3f6ecce51f443b9147fe826e1dd6
+      internalID: -206012504175035436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_10
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 703
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98b7f6f8abea74da8b4b02efbe8add
+      internalID: -2243327785449025389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 275
+        width: 173
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318029029dffbc43b46a1634af98017
+      internalID: -1257446840868004512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 577
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1eb71074edca840837d469bbac9ccb
+      internalID: 5377362986472555383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 577
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e337773f0210409c9212b855d907b
+      internalID: 2501767841945544590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 577
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945c8fea2806fa14093322cbd3fdde7f
+      internalID: -6632090618647220212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 576
+        width: 243
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f06497f1e31be41b2eed21871519a6
+      internalID: 5260462632287617126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_16
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 576
+        width: 234
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c8dc269e35f7543b8d2b2a5b03b9d3
+      internalID: 5436563109168898728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_17
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 576
+        width: 227
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b920330ee1184b8798c310d67c55d
+      internalID: -678197829611156349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_18
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 578
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102ad7b220e28045bc99e718438baef
+      internalID: -2697109924734053895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_19
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 469
+        width: 108
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480038d1fdf49d4bb94ad50908e7a6e
+      internalID: 8651228817862313427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_20
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 469
+        width: 108
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d440fa97d4d9441a223f5608b5696d
+      internalID: 3079251875783000306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_21
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 225
+        width: 108
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6df119946fb545bdb0b5a4edeaf3d
+      internalID: 6171914247675551473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_22
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 224
+        width: 108
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcb2c3f549a5a45827a7ae8134d1e7
+      internalID: -58092798345146070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 123
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2fec8c72ac82847a9b2b19ec892652
+      internalID: 4339209763271811246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 189
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1346cd8e464bdf408682a5c8e7fe0b3
+      internalID: -1232217163013164474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_25
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 7
+        width: 108
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd3b4deb01b51489983382957da66e
+      internalID: 3928970723422607553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.Dorm_26
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 7
+        width: 108
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf05945c0b810a4ca8579e4ccd4272f
+      internalID: -5771028488348340613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6fab73f7fd734c941b4b8b162e322167
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      02.Dorm_0: 6619794601963300964
+      02.Dorm_1: 3016654041977718277
+      02.Dorm_10: -2243327785449025389
+      02.Dorm_11: -1257446840868004512
+      02.Dorm_12: 5377362986472555383
+      02.Dorm_13: 2501767841945544590
+      02.Dorm_14: -6632090618647220212
+      02.Dorm_15: 5260462632287617126
+      02.Dorm_16: 5436563109168898728
+      02.Dorm_17: -678197829611156349
+      02.Dorm_18: -2697109924734053895
+      02.Dorm_19: 8651228817862313427
+      02.Dorm_2: 8768700483489584867
+      02.Dorm_20: 3079251875783000306
+      02.Dorm_21: 6171914247675551473
+      02.Dorm_22: -58092798345146070
+      02.Dorm_23: 4339209763271811246
+      02.Dorm_24: -1232217163013164474
+      02.Dorm_25: 3928970723422607553
+      02.Dorm_26: -5771028488348340613
+      02.Dorm_3: -4351471390156103915
+      02.Dorm_4: -4919995040073184230
+      02.Dorm_5: 4982872105161371123
+      02.Dorm_6: 1456578872949221479
+      02.Dorm_7: 1905807703799758325
+      02.Dorm_8: -8498375082436323886
+      02.Dorm_9: -206012504175035436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
